@@ -10,4 +10,4 @@ You can find it deployed here:
 `build command`: `npm run build` \
 `output dir`: `public`
 
-yes
+yes 2
